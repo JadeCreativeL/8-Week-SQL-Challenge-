@@ -8,3 +8,10 @@
 * Entity Relationship Diagram
 * Question and Answer
 * APPENDIX
+
+### Business problem
+
+Danny needs assistance to help the restaurant stay afloat by using data to help him run the business. He wants to identify his customer visiting patterns, how much money they've spent, and which menu items are their favorite.
+
+
+
