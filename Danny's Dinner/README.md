@@ -4,7 +4,7 @@
 
 ## Table of content
 
-* Business problem
+* (Business problem https://github.com/JadeCreativeL/8-Week-SQL-Challenge-/blob/main/Danny's%20Dinner/README.md#business-problem)
 * Entity Relationship Diagram
 * Question and Answer
 * APPENDIX
