@@ -16,6 +16,3 @@ Danny needs assistance to help the restaurant stay afloat by using data to help 
 ### Entity Relationship Diagram
 
 <img src="https://github.com/JadeCreativeL/image-/blob/main/relate table.png" width="500" height="500">
-
-
-
