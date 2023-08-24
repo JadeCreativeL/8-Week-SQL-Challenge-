@@ -18,10 +18,14 @@ Danny needs assistance to help the restaurant stay afloat by using data to help 
 <img src="https://github.com/JadeCreativeL/image-/blob/main/relate table.png" width="700" height="500">
 
 ### Question and Answer
+I used Microsoft SQL Server to answer the questions below. If you want to find the code, they are in APPENDIX below 
 
 #### 1. What is the total amount each customer spent at the restaurant?
 
+#### Answer: 
+
 #### 2. How many days has each customer visited the restaurant?
+
 
 #### 3. What was the first item from the menu purchased by each customer?
 
