@@ -13,5 +13,9 @@
 
 Danny needs assistance to help the restaurant stay afloat by using data to help him run the business. He wants to identify his customer visiting patterns, how much money they've spent, and which menu items are their favorite.
 
+### Entity Relationship Diagram
+
+<img src="https://github.com/JadeCreativeL/image-/blob/main/relate table.png" width="500" height="500">
+
 
 
