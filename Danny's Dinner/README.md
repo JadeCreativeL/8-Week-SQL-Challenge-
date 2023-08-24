@@ -6,7 +6,7 @@
 
 * [Business problem](https://github.com/JadeCreativeL/8-Week-SQL-Challenge-/blob/main/Danny's%20Dinner/README.md#business-problem)
 * [Entity Relationship Diagram](https://github.com/JadeCreativeL/8-Week-SQL-Challenge-/blob/main/Danny's%20Dinner/README.md#entity-relationship-diagram)
-* Question and Answer
+* [Question and Answer](https://github.com/JadeCreativeL/8-Week-SQL-Challenge-/blob/main/Danny's%20Dinner/README.md#question-and-answer)
 * APPENDIX
 
 ### Business problem
