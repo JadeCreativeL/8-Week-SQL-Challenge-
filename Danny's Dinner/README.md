@@ -38,7 +38,6 @@ I used Microsoft SQL Server to answer the questions below. If you want to find t
 - Customer A purchased both curry and sushi for the first time.
 - Customer B's first order is curry
 - Customer C's first order is ramen
-- 
 #### Q4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
 #### Q5. Which item was the most popular for each customer?
