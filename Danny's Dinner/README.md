@@ -24,6 +24,10 @@ I used Microsoft SQL Server to answer the questions below. If you want to find t
 
 #### Answer: 
 
+- Customer A spent $76
+- Customer B spent $74
+- Customer C spent $36
+
 #### 2. How many days has each customer visited the restaurant?
 
 
@@ -42,4 +46,13 @@ I used Microsoft SQL Server to answer the questions below. If you want to find t
 #### 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 #### 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - How many points do customers A and B have at the end of January?
+
+### APPENDIX
+```sql
+SELECT s.customer_id,SUM(ISNULL(m.price,0)) AS [total]
+FROM casestudy1..sales AS s
+Inner Join casestudy1..menu as m
+ON s.product_id = m.product_id
+GROUP BY s.customer_id
+```
 
