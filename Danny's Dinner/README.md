@@ -32,12 +32,21 @@ I used Microsoft SQL Server to answer the questions below. If you want to find t
 - Customer C spent $36
 
 #### Q2. How many days has each customer visited the restaurant?
-
-- Customer A visited 4 times
+|   | customer_id | visited_time |
+|---| ----------- | ----- |
+| 1 | A           | 6    |
+| 2 | B           | 6    |
+| 3 | C           | 3    |
+- Customer A visited 6 times
 - Customer B visited 6 times
 - Customer C visited 2 times 
 #### Q3. What was the first item from the menu purchased by each customer?
-
+|   | customer_id | order_date |product_name|
+|---| ----------- | ----- |-----|
+| 1 | A           | 2021-01-01    |curry|
+| 2 | A           | 2021-01-01    |sushi|
+| 3 | B           | 2021-01-01    |curry|
+| 4 | C           | 2021-01-01    |ramen|
 - Customer A purchased both curry and sushi for the first time.
 - Customer B's first order is curry
 - Customer C's first order is ramen
