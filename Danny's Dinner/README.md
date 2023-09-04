@@ -21,8 +21,11 @@ Danny needs assistance to help the restaurant stay afloat by using data to help 
 I used Microsoft SQL Server to answer the questions below. If you want to find the code, they are in APPENDIX below 
 
 #### Q1. What is the total amount each customer spent at the restaurant?
-
-
+|   | customer_id | total |
+|---| ----------- | ----- |
+| 1 | A           | 76    |
+| 2 | B           | 74    |
+| 3 | C           | 36    |
 
 - Customer A spent $76
 - Customer B spent $74
